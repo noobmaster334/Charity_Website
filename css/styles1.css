@@ -1,0 +1,309 @@
+/* Reset some default styles to ensure consistency */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style the navigation menu (you can add your navigation links here) */
+/* Example:
+   header nav {
+       margin-top: 10px;
+   }
+   header a {
+       color: white;
+       text-decoration: none;
+       margin: 0 20px;
+   }
+*/
+
+/* Style the main section */
+.charitable-giving {
+    padding: 20px;
+}
+
+/* Style the section heading */
+.charitable-giving h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Style the paragraph */
+.charitable-giving p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+/* Style the donation options */
+.donation-options {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Style individual donation options */
+.donation-option {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 30%;
+}
+
+.donation-option h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.donation-option p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.donation-option a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.donation-option a:hover {
+    background-color: #555;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+/* Reset some default styles to ensure consistency */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style the navigation menu (you can add your navigation links here) */
+/* Example:
+   header nav {
+       margin-top: 10px;
+   }
+   header a {
+       color: white;
+       text-decoration: none;
+       margin: 0 20px;
+   }
+*/
+
+/* Style the main section */
+.charitable-giving {
+    padding: 20px;
+}
+
+/* Style the section heading */
+.charitable-giving h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Style the paragraph */
+.charitable-giving p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+/* Style the donation options */
+.donation-options {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Style individual donation options */
+.donation-option {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 30%;
+}
+
+.donation-option h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.donation-option p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.donation-option a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.donation-option a:hover {
+    background-color: #555;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+/* Reset some default styles to ensure consistency */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style the navigation menu (you can add your navigation links here) */
+/* Example:
+   header nav {
+       margin-top: 10px;
+   }
+   header a {
+       color: white;
+       text-decoration: none;
+       margin: 0 20px;
+   }
+*/
+
+/* Style the main section */
+.charitable-giving {
+    padding: 20px;
+}
+
+/* Style the section heading */
+.charitable-giving h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Style the paragraph */
+.charitable-giving p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+/* Style the donation options */
+.donation-options {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Style individual donation options */
+.donation-option {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 30%;
+}
+
+.donation-option h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.donation-option p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.donation-option a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.donation-option a:hover {
+    background-color: #555;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
